@@ -21,6 +21,6 @@
         }
     },
     "extra": {
-        "installer-name": "VersionManager"
+        "installer-name": "Versioning"
     }
 }
