@@ -12,12 +12,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Perfekteco\\VersionManager\\": "src/"
+            "Perfekteco\\Versioning\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Perfekteco\\VersionManager\\Test\\": "tests/"
+            "Perfekteco\\Versioning\\Test\\": "tests/"
         }
     },
     "extra": {
